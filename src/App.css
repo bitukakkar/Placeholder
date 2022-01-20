@@ -1,0 +1,108 @@
+@font-face {
+  font-family: 'GTWalsheimRegular';
+  src: local('GTWalsheimRegular'),
+    url(./Assets/Fonts/gt-walsheim-regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'GTWalsheimMedium';
+  src: local('GTWalsheimMedium'),
+    url(./Assets/Fonts/gt-walsheim-medium.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'GTWalsheimBold';
+  src: local('GTWalsheimBold'),
+    url(./Assets/Fonts/gt-walsheim-bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'GTWalsheimLight';
+  src: local('GTWalsheimLight'),
+    url(./Assets/Fonts/gt-walsheim-light.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'InterRegular';
+  src: local('InterRegular'),
+    url(./Assets/Fonts/Inter-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'InterMedium';
+  src: local('InterMedium'),
+    url(./Assets/Fonts/Inter-Medium.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'InterSemiBold';
+  src: local('InterSemiBold'),
+    url(./Assets/Fonts/Inter-SemiBold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'InterBold';
+  src: local('InterBold'), url(./Assets/Fonts/Inter-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'InterExtraBold';
+  src: local('InterExtraBold'),
+    url(./Assets/Fonts/Inter-ExtraBold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'InterBlack';
+  src: local('InterBlack'),
+    url(./Assets/Fonts/Inter-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'InterLight';
+  src: local('InterLight'),
+    url(./Assets/Fonts/Inter-Light.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBMPlexSansRegular';
+  src: local('IBMPlexSansRegular'),
+    url(./Assets/Fonts/IBMPlexSans-Regular.ttf) format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBMPlexSansMedium';
+  src: local('IBMPlexSansMedium'),
+    url(./Assets/Fonts/IBMPlexSans-Medium.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBMPlexSansSemiBold';
+  src: local('IBMPlexSansSemiBold'),
+    url(./Assets/Fonts/IBMPlexSans-SemiBold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBMPlexSansBold';
+  src: local('IBMPlexSansBold'),
+    url(./Assets/Fonts/IBMPlexSans-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBMPlexSans';
+  src: url(./Assets/Fonts/IBMPlexSans-Regular.ttf) format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBMPlexSans';
+  src: url(./Assets/Fonts/IBMPlexSans-Medium.ttf) format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBMPlexSans';
+  src: url(./Assets/Fonts/IBMPlexSans-SemiBold.ttf) format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBMPlexSans';
+  src: url(./Assets/Fonts/IBMPlexSans-Bold.ttf) format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HelveticaNeueBold';
+  src: local('HelveticaNeueBold'),
+    url(./Assets/Fonts/HelveticaNeue-Bold.otf) format('opentype');
+}
+.Toastify__toast-body {
+  font-size: 15px;
+}
